@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrawaKhemiri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Laravel,Vue JS
+- 🌱 I’m a react node js developer 
 - 💞️ I’m looking to collaborate on various projects,especially open source
 - 📫 How to reach me https://www.linkedin.com/in/marwa-khemiri-a05424208/
 
